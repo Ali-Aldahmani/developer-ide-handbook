@@ -1,77 +1,50 @@
-# 🧠 Developer IDE Architecture & Performance Handbook
+<div align="center">
 
-<p align="center">
-  <b>A Professional Documentation Project Covering Modern Development Environments</b>
-</p>
+# 🧠 Modern IDE Architecture Handbook
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Scope-All%20Major%20IDEs-black">
-  <img src="https://img.shields.io/badge/Focus-Architecture%20%7C%20Performance-blue">
-  <img src="https://img.shields.io/badge/Level-Professional-red">
-  <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen">
-</p>
+### A Technical Overview of Development Environments Across Software Ecosystems
 
----
+<img src="https://img.shields.io/badge/Scope-Global-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Architecture-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Level-Professional-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Maintained-Active-brightgreen?style=for-the-badge">
 
-# 📑 Table of Contents
-
-1. Overview  
-2. IDE Architecture Models  
-3. Performance Comparison  
-4. IDE Directory  
-5. Language Ecosystem Mapping  
-6. Strategic Recommendations  
+</div>
 
 ---
 
-# 1️⃣ Overview
+## 📌 Philosophy
 
-This repository provides a structured technical comparison of modern IDEs used in:
+An IDE is more than a code editor.  
+It is an environment that influences how developers design, debug, and scale systems.
 
-- Backend Engineering
-- Web Development
-- Systems Programming
-- Data Science
-- Enterprise Software
-- Mobile Development
-- Statistical Computing
-
-The goal is not to rank IDEs — but to analyze them architecturally and strategically.
+This repository documents the structure, strengths, and strategic use-cases of modern IDEs across different domains.
 
 ---
 
-# 2️⃣ IDE Architecture Models
+# 🏗 Architecture Models
 
-Modern IDEs generally follow two architectural philosophies:
+## 1️⃣ Extension-Based Systems
 
----
-
-## 🏗️ A. Extension-Based Architecture
+Lightweight core + plugin ecosystem.
 
 **Examples**
 - Visual Studio Code  
 - Sublime Text  
 
-### Model
-Lightweight core editor extended through plugins.
-
-### Characteristics
+**Characteristics**
 - Fast startup
-- Modular design
-- Performance depends on installed extensions
 - Highly customizable
+- Performance varies with extensions
 
-### Advantages
-- Flexible ecosystem
-- Lower base resource usage
-
-### Trade-offs
-- Plugin conflicts possible
-- Can become heavy over time
+**Best For**
+Developers who value flexibility and modular tooling.
 
 ---
 
-## 🏢 B. Fully Integrated (Monolithic) Architecture
+## 2️⃣ Fully Integrated Systems
+
+Complete toolchain built around language intelligence.
 
 **Examples**
 - IntelliJ IDEA  
@@ -83,174 +56,132 @@ Lightweight core editor extended through plugins.
 - Xcode  
 - RStudio  
 
-### Model
-Complete built-in toolchain optimized for specific languages.
+**Characteristics**
+- Deep language parsing
+- Advanced debugging & profiling
+- Strong framework integration
 
-### Characteristics
-- Deep language understanding
-- Built-in debugging & profiling
-- Framework-level integration
-
-### Advantages
-- Stability
-- Powerful refactoring
-- Enterprise readiness
-
-### Trade-offs
-- Higher memory usage
-- Slower startup compared to lightweight editors
+**Best For**
+Large-scale, enterprise, or production systems.
 
 ---
 
-# 3️⃣ Performance Comparison (Generalized)
+# 🌍 IDE Ecosystem Overview
 
-⚠️ Performance depends on system specs and project size.
+## 🔹 Cross-Platform / Multi-Language
 
-| IDE | Startup Speed | RAM Usage | Large Project Handling | Customization |
-|------|--------------|-----------|------------------------|---------------|
-| VS Code | Fast | Low–Medium | Good | Very High |
-| IntelliJ IDEA | Medium | High | Excellent | Medium |
-| PyCharm | Medium | High | Excellent | Medium |
-| WebStorm | Medium | High | Excellent | Medium |
-| Visual Studio | Medium | High | Excellent | Low |
-| Rider | Medium | Medium–High | Excellent | Medium |
-| CLion | Medium | High | Excellent | Medium |
-| Xcode | Medium | High | Very Good | Low |
-| Eclipse | Slow | Medium | Good | Medium |
-| Sublime Text | Very Fast | Very Low | Moderate | High |
-| RStudio | Medium | Medium | Very Good | Medium |
+| IDE | Website | Focus |
+|-----|----------|-------|
+| Visual Studio Code | https://code.visualstudio.com/ | Web / General |
+| Sublime Text | https://www.sublimetext.com/ | Lightweight Editing |
 
 ---
 
-# 4️⃣ IDE Directory
+## 🔹 Java & Backend
+
+| IDE | Website | Focus |
+|-----|----------|-------|
+| IntelliJ IDEA | https://www.jetbrains.com/idea/ | Enterprise Java |
+| Eclipse | https://www.eclipse.org/ | Legacy Java |
 
 ---
 
-## 🌍 Cross-Platform / Multi-Language
+## 🔹 Python & AI
 
-### Visual Studio Code  
-https://code.visualstudio.com/  
-Best for: Web, Python, General Development  
-
-### Sublime Text  
-https://www.sublimetext.com/  
-Best for: Lightweight Editing  
+| IDE | Website | Focus |
+|-----|----------|-------|
+| PyCharm | https://www.jetbrains.com/pycharm/ | Machine Learning / Backend |
 
 ---
 
-## ☕ Java & Backend
+## 🔹 Web Development
 
-### IntelliJ IDEA  
-https://www.jetbrains.com/idea/  
-Best for: Enterprise Java & Kotlin  
-
-### Eclipse  
-https://www.eclipse.org/  
-Best for: Legacy Java Systems  
+| IDE | Website | Focus |
+|-----|----------|-------|
+| WebStorm | https://www.jetbrains.com/webstorm/ | JavaScript / Frontend |
 
 ---
 
-## 🐍 Python & Machine Learning
+## 🔹 .NET & C#
 
-### PyCharm  
-https://www.jetbrains.com/pycharm/  
-Best for: AI / ML / Backend Python  
-
----
-
-## 🌐 Web Development
-
-### WebStorm  
-https://www.jetbrains.com/webstorm/  
-Best for: JavaScript / Frontend Frameworks  
+| IDE | Website | Focus |
+|-----|----------|-------|
+| Visual Studio | https://visualstudio.microsoft.com/ | Enterprise .NET |
+| Rider | https://www.jetbrains.com/rider/ | Cross-platform .NET |
 
 ---
 
-## 💻 .NET & C#
+## 🔹 C / C++
 
-### Visual Studio  
-https://visualstudio.microsoft.com/  
-Best for: C#, .NET, Enterprise Systems  
-
-### Rider  
-https://www.jetbrains.com/rider/  
-Best for: Cross-platform .NET  
+| IDE | Website | Focus |
+|-----|----------|-------|
+| CLion | https://www.jetbrains.com/clion/ | Systems Programming |
+| Code::Blocks | http://www.codeblocks.org/ | Beginner C++ |
 
 ---
 
-## ⚙️ C / C++
+## 🔹 Apple Ecosystem
 
-### CLion  
-https://www.jetbrains.com/clion/  
-Best for: Systems Programming  
-
-### Code::Blocks  
-http://www.codeblocks.org/  
-Best for: Beginner C++ Development  
+| IDE | Website | Focus |
+|-----|----------|-------|
+| Xcode | https://developer.apple.com/xcode/ | iOS / macOS |
 
 ---
 
-## 🍎 Apple Ecosystem
+## 🔹 R & Statistical Computing
 
-### Xcode  
-https://developer.apple.com/xcode/  
-Best for: iOS / macOS Development  
-
----
-
-## 📊 R & Statistical Computing
-
-### RStudio (Posit IDE)  
-https://posit.co/download/rstudio-desktop/  
-Best for: Statistics, Academic Research, Data Analysis  
-
-**Strengths**
-- Native R integration  
-- R Markdown support  
-- Built-in plotting & package management  
-- Strong tidyverse workflow  
+| IDE | Website | Focus |
+|-----|----------|-------|
+| RStudio (Posit) | https://posit.co/download/rstudio-desktop/ | Research / Statistics |
+| VS Code (R Extension) | https://code.visualstudio.com/ | Hybrid R + Python |
 
 ---
 
-### VS Code (with R Extension)  
-https://code.visualstudio.com/  
-Best for: Multi-language Data Science workflows  
+# 📊 Performance Snapshot
+
+| IDE | Startup | Memory Usage | Enterprise Ready |
+|------|---------|-------------|------------------|
+| VS Code | Fast | Low–Medium | ⭐⭐⭐ |
+| IntelliJ | Medium | High | ⭐⭐⭐⭐⭐ |
+| PyCharm | Medium | High | ⭐⭐⭐⭐ |
+| Visual Studio | Medium | High | ⭐⭐⭐⭐⭐ |
+| Rider | Medium | Medium–High | ⭐⭐⭐⭐ |
+| CLion | Medium | High | ⭐⭐⭐⭐ |
+| Xcode | Medium | High | ⭐⭐⭐⭐ |
+| RStudio | Medium | Medium | ⭐⭐⭐⭐ |
+| Sublime | Very Fast | Very Low | ⭐⭐ |
 
 ---
 
-# 5️⃣ Language Ecosystem Mapping
+# 🧭 Language → IDE Mapping
 
-| Language | Recommended IDE |
-|----------|-----------------|
+| Language | Recommended Environment |
+|----------|-------------------------|
 | Python | PyCharm / VS Code |
 | Java | IntelliJ IDEA |
 | C# | Visual Studio / Rider |
 | C++ | CLion |
 | JavaScript | WebStorm / VS Code |
 | R | RStudio |
-| iOS | Xcode |
-| Multi-language | VS Code |
+| Swift | Xcode |
 
 ---
 
-# 6️⃣ Strategic Recommendations
+# 🎯 Strategic Insight
 
-Choose your IDE based on:
+Choose your environment based on:
 
-- Primary language
-- Project scale
-- Team ecosystem
+- Primary ecosystem
+- Project complexity
+- Team standards
 - Hardware capability
-- Long-term career direction
-
-There is no universal “best IDE” — only the best fit for your workflow and architecture style.
+- Long-term career path
 
 ---
 
-# 🏁 Final Perspective
+<div align="center">
 
-An IDE is not just a code editor.
+### Build with intention.  
+### Tools shape thinking.
 
-It is a development operating system.
-
-Choose tools that scale with your thinking.
+</div>
