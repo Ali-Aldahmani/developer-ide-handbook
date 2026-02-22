@@ -196,14 +196,11 @@ Built-in toolchains designed for deep language support.
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00d4ff&height=2&section=footer&fontSize=20" />
-  <br>
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00d4ff&height=2&section=footer" width="100%" />
+  <br><br>
   <b>TOOLS SHAPE YOUR THINKING. CHOOSE WISELY, CODE HAPPILY.</b>
 </p>
----
-<p align="center">
-  <b>Tools shape your thinking. Choose wisely, code happily.</b>
-</p>
+
 ---
 
 <div align="center">
