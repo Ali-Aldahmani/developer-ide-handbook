@@ -1,8 +1,6 @@
 <div align="center">
    
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Modern%20IDE%20Guide&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Practical%20Developer%20Insights%20by%20Ali%20Aldahmani&descAlignY=62&descAlign=50" />
-</p>
+# 🧠 Modern IDE Guide – Practical Developer Insights
 
 ---
 
