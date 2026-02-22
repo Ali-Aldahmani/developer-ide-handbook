@@ -2,8 +2,6 @@
    
 # 🧠 Modern IDE Guide – Practical Developer Insights
 
----
-
 ### A Developer’s Perspective on Choosing the Right IDE
 
 <img src="https://img.shields.io/badge/Scope-All%20Major%20IDEs-black?style=for-the-badge">
