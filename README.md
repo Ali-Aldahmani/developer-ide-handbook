@@ -146,16 +146,16 @@ Built-in toolchains designed for deep language support.
 # Performance Snapshot
 
 | IDE | Startup | Memory Usage | Enterprise Ready |
-|------|---------|-------------|------------------|
-| VS Code | Fast | Low–Medium | ⭐⭐⭐ |
-| IntelliJ IDEA | Medium | High | ⭐⭐⭐⭐⭐ |
-| PyCharm | Medium | High | ⭐⭐⭐⭐ |
-| Visual Studio | Medium | High | ⭐⭐⭐⭐⭐ |
-| Rider | Medium | Medium–High | ⭐⭐⭐⭐ |
-| CLion | Medium | High | ⭐⭐⭐⭐ |
-| Xcode | Medium | High | ⭐⭐⭐⭐ |
-| RStudio | Medium | Medium | ⭐⭐⭐⭐ |
-| Sublime | Very Fast | Very Low | ⭐⭐ |
+| :--- | :--- | :--- | :--- |
+| ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | `Fast` | 🟢 Low–Medium | ⭐⭐⭐ |
+| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) | `Medium` | 🔴 High | ⭐⭐⭐⭐⭐ |
+| ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) | `Medium` | 🔴 High | ⭐⭐⭐⭐ |
+| ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) | `Medium` | 🔴 High | ⭐⭐⭐⭐⭐ |
+| ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white) | `Medium` | 🟠 Medium–High | ⭐⭐⭐⭐ |
+| ![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white) | `Medium` | 🔴 High | ⭐⭐⭐⭐ |
+| ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=xcode&logoColor=white) | `Medium` | 🔴 High | ⭐⭐⭐⭐ |
+| ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white) | `Medium` | 🟡 Medium | ⭐⭐⭐⭐ |
+| ![Sublime](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white) | `Very Fast` | 🟢 Very Low | ⭐⭐ |
 
 ---
 
