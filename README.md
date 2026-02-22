@@ -173,18 +173,24 @@ Built-in toolchains designed for deep language support.
 
 ---
 
-# Strategic Insight
+# 💡 Strategic Insight
 
-Choose your IDE based on:
+### 🎯 Selection Criteria
 
-- Primary ecosystem  
-- Project complexity  
-- Team standards  
-- Hardware capability  
-- Long-term career path  
+| | | |
+| :--- | :--- | :--- |
+| 🌐 **Primary Ecosystem** | 🏗️ **Project Complexity** | 👥 **Team Standards** |
+| 💻 **Hardware Capability** | 🚀 **Long-term Career** | 🛠️ **Workflow Speed** |
 
-> Personal tip: Don’t be afraid to mix IDEs — I often use VS Code for multi-language scripts and PyCharm for ML-heavy projects.
+---
 
+> [!TIP]
+> **Personal Note:** Don’t be afraid to mix IDEs. I often use ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) for multi-language scripts and ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) for ML-heavy projects.
+
+---
+<p align="center">
+  <b>Tools shape your thinking. Choose wisely, code happily.</b>
+</p>
 ---
 
 <div align="center">
