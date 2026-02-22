@@ -175,18 +175,31 @@ Built-in toolchains designed for deep language support.
 
 # 💡 Strategic Insight
 
-### 🎯 Selection Criteria
+### ⚡ Selection Pillars
 
-| | | |
-| :--- | :--- | :--- |
-| 🌐 **Primary Ecosystem** | 🏗️ **Project Complexity** | 👥 **Team Standards** |
-| 💻 **Hardware Capability** | 🚀 **Long-term Career** | 🛠️ **Workflow Speed** |
+**🌐 PRIMARY ECOSYSTEM**
+> Choose based on the language stack and native OS support.
+
+**🏗️ PROJECT COMPLEXITY**
+> Scalability matters—use lightweight editors for scripts and full IDEs for large architectures.
+
+**👥 TEAM STANDARDS**
+> Consistency is key; align with your team's linting and debugging workflows.
+
+**💻 HARDWARE CAPABILITY**
+> Consider RAM and CPU overhead, especially on your **Mac M-series** or **Pop!_OS** setup.
 
 ---
 
-> [!TIP]
-> **Personal Note:** Don’t be afraid to mix IDEs. I often use ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) for multi-language scripts and ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) for ML-heavy projects.
+> [!IMPORTANT]
+> **NEON TIP:** Don’t be afraid to mix IDEs. I often use ![VS Code](https://img.shields.io/badge/VS_Code-00D4FF?style=for-the-badge&logo=visual-studio-code&logoColor=black) for multi-language scripts and ![PyCharm](https://img.shields.io/badge/PyCharm-FF00E6?style=for-the-badge&logo=pycharm&logoColor=white) for ML-heavy projects.
 
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00d4ff&height=2&section=footer&fontSize=20" />
+  <br>
+  <b>TOOLS SHAPE YOUR THINKING. CHOOSE WISELY, CODE HAPPILY.</b>
+</p>
 ---
 <p align="center">
   <b>Tools shape your thinking. Choose wisely, code happily.</b>
