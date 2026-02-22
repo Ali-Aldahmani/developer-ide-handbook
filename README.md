@@ -163,13 +163,13 @@ Built-in toolchains designed for deep language support.
 
 | Language | Recommended IDE |
 |----------|-----------------|
-| Python | PyCharm / VS Code |
-| Java | IntelliJ IDEA |
-| C# | Visual Studio / Rider |
-| C++ | CLion |
-| JavaScript | WebStorm / VS Code |
-| R | RStudio |
-| Swift | Xcode |
+| <kbd>Python</kbd> | PyCharm / VS Code |
+| <kbd>Java</kbd> | IntelliJ IDEA |
+| <kbd>C#</kbd> | Visual Studio / Rider |
+| <kbd>C++</kbd> | CLion |
+| <kbd>JavaScript</kbd> | WebStorm / VS Code |
+| <kbd>R</kbd> | RStudio |
+| <kbd>Swift</kbd> | Xcode |
 
 ---
 
