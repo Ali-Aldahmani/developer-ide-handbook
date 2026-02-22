@@ -195,13 +195,6 @@ Built-in toolchains designed for deep language support.
 > **NEON TIP:** Don’t be afraid to mix IDEs. I often use ![VS Code](https://img.shields.io/badge/VS_Code-00D4FF?style=for-the-badge&logo=visual-studio-code&logoColor=black) for multi-language scripts and ![PyCharm](https://img.shields.io/badge/PyCharm-FF00E6?style=for-the-badge&logo=pycharm&logoColor=white) for ML-heavy projects.
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00d4ff&height=2&section=footer" width="100%" />
-  <br><br>
-  <b>TOOLS SHAPE YOUR THINKING. CHOOSE WISELY, CODE HAPPILY.</b>
-</p>
-
----
 
 <div align="center">
 
